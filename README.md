@@ -5,12 +5,19 @@ Application that managing inventory of a small business.
 
 **Here is the activities that can user do:**
 -Add item
+
 -edit an existing item
+
 -delete an existing item
+
 -write to a file
+
 -load inventory information from the file
+
 -Track inventory levels
+
 -generate purchase orders
+
 
 ## -How To Run Code  
     
