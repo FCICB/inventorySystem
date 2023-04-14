@@ -4,6 +4,7 @@ Application that managing inventory of a small business.
 
 
 **Here is the activities that can user do:**
+
 -Add item
 
 -edit an existing item
